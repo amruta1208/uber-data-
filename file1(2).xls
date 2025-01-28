@@ -1,0 +1,462 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,DATE,TIME,Day-Night,DAY
+2022-01-02 01:25:00,01-02-2022 01:37,Business,Fort Pierce,Fort Pierce,5.0,Customer Visit,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,02-02-2022 01:37,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,03-02-2022 01:37,Business,Fort Pierce,Fort Pierce,4.7,Meeting,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,04-02-2022 01:37,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,05-02-2022 01:37,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,06-02-2022 01:37,Business,West Palm Beach,Palm Beach,7.1,Meeting,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,07-02-2022 01:37,Business,Cary,Cary,0.8,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,08-02-2022 01:37,Business,Cary,Morrisville,8.3,Meeting,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,09-02-2022 01:37,Business,Jamaica,New York,16.5,Customer Visit,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,10-02-2022 01:37,Business,New York,Queens,10.8,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,11-02-2022 01:37,Business,Elmhurst,New York,7.5,Meeting,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,12-02-2022 01:37,Business,Midtown,East Harlem,6.2,Meeting,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,13-02-2022 01:37,Business,East Harlem,NoMad,6.4,Temporary Site,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,14-02-2022 01:37,Business,Flatiron District,Midtown,1.6,Errand/Supplies,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,15-02-2022 01:37,Business,Midtown,Midtown East,1.7,Meal/Entertain,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,16-02-2022 01:37,Business,Midtown East,Midtown,1.9,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,17-02-2022 01:37,Business,Midtown,Hudson Square,1.9,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,18-02-2022 01:37,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,19-02-2022 01:37,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,20-02-2022 01:37,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,21-02-2022 01:37,Business,Hell's Kitchen,Midtown,2.0,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,22-02-2022 01:37,Business,New York,Queens County,15.1,Meeting,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,23-02-2022 01:37,Business,Downtown,Gulfton,11.2,Meeting,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,24-02-2022 01:37,Business,Gulfton,Downtown,11.8,Meeting,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,25-02-2022 01:37,Business,Houston,Houston,21.9,Customer Visit,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,26-02-2022 01:37,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,27-02-2022 01:37,Business,Morrisville,Cary,8.0,Errand/Supplies,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,28-02-2022 01:37,Business,Cary,Durham,10.4,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,01-03-2022 01:37,Business,Durham,Cary,10.4,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,02-03-2022 01:37,Business,Cary,Cary,4.8,Meal/Entertain,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,03-03-2022 01:37,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,2022-01-10,12,Afternoon,Sun
+2022-01-10 18:18:00,05-03-2022 01:37,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,06-03-2022 01:37,Business,Cary,Raleigh,17.1,Meeting,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,07-03-2022 01:37,Business,Fayetteville Street,Umstead,15.1,Meeting,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,08-03-2022 01:37,Business,Raleigh,Cary,40.2,Customer Visit,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,09-03-2022 01:37,Business,Cary,Cary,1.6,Errand/Supplies,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,10-03-2022 01:37,Business,Cary,Cary,2.4,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,11-03-2022 01:37,Business,Cary,Cary,1.0,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,12-03-2022 01:37,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,13-03-2022 01:37,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,14-03-2022 01:37,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,15-03-2022 01:37,Business,Cary,Cary,1.4,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,16-03-2022 01:37,Business,Cary,Cary,0.5,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,17-03-2022 01:37,Business,Cary,Cary,1.8,Meeting,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,18-03-2022 01:37,Business,Cary,Raleigh,18.7,Customer Visit,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,19-03-2022 01:37,Business,Fairmont,Meredith Townes,3.4,Customer Visit,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,20-03-2022 01:37,Business,Raleigh,Raleigh,2.7,Customer Visit,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,21-03-2022 01:37,Business,Raleigh,Cary,12.9,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,22-03-2022 01:37,Business,Cary,Raleigh,19.0,Temporary Site,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,23-03-2022 01:37,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,24-03-2022 01:37,Business,Raleigh,Cary,15.7,Meeting,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,25-03-2022 01:37,Business,Cary,Cary,4.6,Customer Visit,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,26-03-2022 01:37,Business,Cary,Cary,5.2,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,27-03-2022 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,28-03-2022 01:37,Business,Durham,Cary,10.1,Meeting,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,29-03-2022 01:37,Business,Cary,Apex,5.8,Errand/Supplies,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,30-03-2022 01:37,Business,Apex,Cary,5.5,Meal/Entertain,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,31-03-2022 01:37,Business,Cary,Apex,5.7,Errand/Supplies,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,01-04-2022 01:37,Business,Apex,Cary,5.7,Customer Visit,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,02-04-2022 01:37,Business,Cary,Chapel Hill,19.4,Customer Visit,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,03-04-2022 01:37,Business,Chapel Hill,Cary,23.3,Customer Visit,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,04-04-2022 01:37,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,05-04-2022 01:37,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,06-04-2022 01:37,Business,Cary,Cary,6.0,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,07-04-2022 01:37,Business,Cary,Cary,1.6,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,08-04-2022 01:37,Business,Cary,Morrisville,5.2,Errand/Supplies,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,09-04-2022 01:37,Business,Morrisville,Cary,9.7,Meal/Entertain,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,10-04-2022 01:37,Business,Cary,Cary,1.6,Meal/Entertain,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,11-04-2022 01:37,Business,Cary,Cary,1.1,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,12-04-2022 01:37,Business,Cary,Cary,1.6,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,13-04-2022 01:37,Business,Whitebridge,Macgregor Downs,9.0,Meeting,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,14-04-2022 01:37,Business,Cary,Cary,7.7,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,15-04-2022 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,16-04-2022 01:37,Business,Durham,Cary,10.4,Meeting,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,17-04-2022 01:37,Business,Cary,Raleigh,11.4,Between Offices,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,18-04-2022 01:37,Business,Raleigh,Cary,9.0,Errand/Supplies,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,19-04-2022 01:37,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,20-04-2022 01:37,Business,Cary,Apex,5.6,Errand/Supplies,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,21-04-2022 01:37,Business,Apex,Cary,5.7,Customer Visit,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,22-04-2022 01:37,Business,Cary,Morrisville,6.1,Temporary Site,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,23-04-2022 01:37,Business,Morrisville,Cary,6.1,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,24-04-2022 01:37,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,25-04-2022 01:37,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,26-04-2022 01:37,Personal,Whitebridge,Northwoods,5.3,Meeting,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,27-04-2022 01:37,Personal,Northwoods,Tanglewood,3.0,Temporary Site,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,28-04-2022 01:37,Personal,Tanglewood,Preston,5.1,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,29-04-2022 01:37,Personal,Preston,Whitebridge,1.5,Meal/Entertain,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,30-04-2022 01:37,Business,Cary,Morrisville,6.1,Meal/Entertain,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,01-05-2022 01:37,Business,Morrisville,Cary,6.1,Meal/Entertain,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,02-05-2022 01:37,Business,Cary,Raleigh,17.3,Meal/Entertain,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,03-05-2022 01:37,Business,Eastgate,Walnut Terrace,5.7,Errand/Supplies,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,04-05-2022 01:37,Business,Raleigh,Morrisville,13.5,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,05-05-2022 01:37,Business,Morrisville,Cary,6.1,Temporary Site,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,06-05-2022 01:37,Business,Cary,Durham,8.5,Temporary Site,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,07-05-2022 01:37,Business,Durham,Morrisville,2.6,Temporary Site,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,08-05-2022 01:37,Business,Morrisville,Raleigh,17.0,Customer Visit,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,09-05-2022 01:37,Business,Raleigh,Cary,18.0,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,10-05-2022 01:37,Business,Cary,Morrisville,8.4,Meeting,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,11-05-2022 01:37,Business,Morrisville,Cary,11.5,Customer Visit,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,12-05-2022 01:37,Business,Cary,Morrisville,8.9,Meeting,2022-01-11,8,Morning,Mon
+2022-01-11 14:30:00,15-05-2022 01:37,Business,East Elmhurst,New York,8.1,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,16-05-2022 01:37,Business,Midtown,Midtown West,2.0,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,17-05-2022 01:37,Business,New York,Long Island City,13.0,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,18-05-2022 01:37,Business,Long Island City,Jamaica,13.9,Meeting,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,19-05-2022 01:37,Business,Katunayaka,Unknown Location,43.7,Customer Visit,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,20-05-2022 01:37,Business,Unknown Location,Colombo,14.1,Meeting,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,21-05-2022 01:37,Business,Colombo,Colombo,2.6,Temporary Site,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,22-05-2022 01:37,Business,Colombo,Colombo,4.5,Errand/Supplies,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,23-05-2022 01:37,Business,Colombo,Colombo,1.7,Meal/Entertain,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,24-05-2022 01:37,Business,Colombo,Colombo,1.8,Meal/Entertain,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,25-05-2022 01:37,Business,Colombo,Colombo,6.0,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,26-05-2022 01:37,Business,Colombo,Nugegoda,1.1,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,27-05-2022 01:37,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,28-05-2022 01:37,Business,Unknown Location,Colombo,14.7,Customer Visit,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,29-05-2022 01:37,Business,Colombo,Colombo,1.7,Meal/Entertain,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,30-05-2022 01:37,Business,Colombo,Katunayaka,21.4,Temporary Site,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,31-05-2022 01:37,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,01-06-2022 01:37,Business,Unknown Location,Unknown Location,23.5,Temporary Site,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,02-06-2022 01:37,Business,Unknown Location,Islamabad,12.7,Temporary Site,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,03-06-2022 01:37,Business,Islamabad,Unknown Location,6.0,Temporary Site,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,04-06-2022 01:37,Business,Unknown Location,Islamabad,5.2,Customer Visit,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,05-06-2022 01:37,Business,Islamabad,Unknown Location,10.0,Meeting,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,06-06-2022 01:37,Business,Unknown Location,Unknown Location,18.3,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,07-06-2022 01:37,Business,Unknown Location,Unknown Location,11.2,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,08-06-2022 01:37,Business,Unknown Location,Islamabad,7.6,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 15:42:00,11-06-2022 01:37,Business,Islamabad,Unknown Location,7.3,Temporary Site,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,12-06-2022 01:37,Business,Unknown Location,Islamabad,3.5,Meeting,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,13-06-2022 01:37,Business,Islamabad,Islamabad,4.2,Temporary Site,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,14-06-2022 01:37,Personal,Islamabad,Unknown Location,13.6,Errand/Supplies,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,15-06-2022 01:37,Personal,Unknown Location,Unknown Location,2.5,Meal/Entertain,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,16-06-2022 01:37,Personal,Unknown Location,Islamabad,14.4,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,17-06-2022 01:37,Personal,Islamabad,Islamabad,3.0,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,18-06-2022 01:37,Personal,Islamabad,Islamabad,1.5,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,19-06-2022 01:37,Business,Islamabad,R?walpindi,18.4,Errand/Supplies,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,20-06-2022 01:37,Business,R?walpindi,R?walpindi,23.1,Customer Visit,2022-01-10,8,Morning,Sun
+2022-01-10 15:08:00,22-06-2022 01:37,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,23-06-2022 01:37,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies,2022-01-10,18,Evening,Sun
+2022-01-11 08:55:00,25-06-2022 01:37,Business,Unknown Location,Islamabad,2.4,Errand/Supplies,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,26-06-2022 01:37,Business,Islamabad,Islamabad,4.6,Errand/Supplies,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,27-06-2022 01:37,Business,Islamabad,Unknown Location,8.8,Meal/Entertain,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,28-06-2022 01:37,Business,Unknown Location,Unknown Location,8.3,Temporary Site,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,29-06-2022 01:37,Business,Unknown Location,Unknown Location,22.7,Temporary Site,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,30-06-2022 01:37,Business,Unknown Location,Islamabad,13.0,Temporary Site,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,01-07-2022 01:37,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,02-07-2022 01:37,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,04-07-2022 01:37,Business,Unknown Location,R?walpindi,20.0,Meeting,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,05-07-2022 01:37,Business,Morrisville,Cary,8.1,Customer Visit,2022-01-02,1,Morning,Sat
+2022-01-05 17:31:00,07-07-2022 01:37,Business,Preston,Whitebridge,1.7,Errand/Supplies,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,08-07-2022 01:37,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,09-07-2022 01:37,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,10-07-2022 01:37,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,11-07-2022 01:37,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 15:08:00,14-07-2022 01:37,Business,Cary,Durham,10.6,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,15-07-2022 01:37,Business,Durham,Cary,9.9,Meeting,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,16-07-2022 01:37,Personal,Whitebridge,Westpark Place,1.9,Meeting,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,17-07-2022 01:37,Personal,Westpark Place,Hazelwood,4.2,Temporary Site,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,18-07-2022 01:37,Personal,Hazelwood,Whitebridge,2.0,Errand/Supplies,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,19-07-2022 01:37,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,20-07-2022 01:37,Business,Waverly Place,Whitebridge,6.8,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,21-07-2022 01:37,Personal,Whitebridge,Westpark Place,2.1,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,22-07-2022 01:37,Business,Cary,Apex,3.8,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,23-07-2022 01:37,Business,Apex,Cary,5.6,Errand/Supplies,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,24-07-2022 01:37,Business,Whitebridge,Hazelwood,2.6,Customer Visit,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,25-07-2022 01:37,Business,Hazelwood,Whitebridge,6.6,Customer Visit,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,26-07-2022 01:37,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,27-07-2022 01:37,Business,Wayne Ridge,Whitebridge,8.0,Meeting,2022-01-02,1,Morning,Sat
+2022-01-05 17:31:00,29-07-2022 01:37,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,30-07-2022 01:37,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,31-07-2022 01:37,Business,Cary,Raleigh,7.6,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,01-08-2022 01:37,Business,Raleigh,Cary,17.3,Meeting,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,02-08-2022 01:37,Business,Cary,Durham,9.9,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,03-08-2022 01:37,Business,Durham,Cary,9.9,Customer Visit,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,04-08-2022 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,05-08-2022 01:37,Business,Durham,Cary,10.9,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,06-08-2022 01:37,Business,Cary,Raleigh,15.7,Customer Visit,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,07-08-2022 01:37,Business,Raleigh,Raleigh,4.9,Meal/Entertain,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,08-08-2022 01:37,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,09-08-2022 01:37,Business,Raleigh,Cary,13.5,Meeting,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,10-08-2022 01:37,Business,Cary,Morrisville,1.9,Temporary Site,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,11-08-2022 01:37,Business,Morrisville,Cary,2.0,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,12-08-2022 01:37,Business,Cary,Morrisville,6.5,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 15:13:00,15-08-2022 01:37,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,16-08-2022 01:37,Business,Cary,Morrisville,7.8,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,17-08-2022 01:37,Business,Morrisville,Cary,3.9,Meal/Entertain,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,18-08-2022 01:37,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,19-08-2022 01:37,Business,Cary,Raleigh,12.4,Customer Visit,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,20-08-2022 01:37,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,21-08-2022 01:37,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,22-08-2022 01:37,Business,Raleigh,Cary,11.9,Between Offices,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,23-08-2022 01:37,Business,Whitebridge,Waverly Place,7.2,Between Offices,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,24-08-2022 01:37,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 12:17:00,26-08-2022 01:37,Business,Cary,Morrisville,8.4,Meeting,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,27-08-2022 01:37,Business,East Austin,West University,12.8,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-11 08:55:00,30-08-2022 01:37,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,31-08-2022 01:37,Business,Congress Ave District,Downtown,0.8,Meeting,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,01-09-2022 01:37,Business,Downtown,Red River District,1.2,Temporary Site,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,02-09-2022 01:37,Business,Red River District,Downtown,1.0,Errand/Supplies,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,03-09-2022 01:37,Business,South Congress,The Drag,2.1,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,04-09-2022 01:37,Business,The Drag,South Congress,2.2,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,05-09-2022 01:37,Personal,South Congress,The Drag,1.9,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,06-09-2022 01:37,Business,The Drag,Convention Center District,5.7,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,07-09-2022 01:37,Business,South Congress,North Austin,8.4,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,08-09-2022 01:37,Business,Georgian Acres,The Drag,6.2,Customer Visit,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,09-09-2022 01:37,Business,The Drag,North Austin,10.5,Meal/Entertain,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,10-09-2022 01:37,Business,North Austin,Coxville,7.2,Meal/Entertain,2022-01-02,20,Night,Sat
+2022-01-06 14:42:00,12-09-2022 01:37,Business,The Drag,South Congress,2.0,Errand/Supplies,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:30:00,14-09-2022 01:37,Business,The Drag,Convention Center District,2.0,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,15-09-2022 01:37,Business,Downtown,The Drag,2.8,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,16-09-2022 01:37,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,2022-01-10,8,Morning,Sun
+2022-01-10 15:08:00,18-09-2022 01:37,Business,West University,Congress Ave District,2.1,Meal/Entertain,2022-01-10,15,Afternoon,Sun
+2022-01-10 19:12:00,20-09-2022 01:37,Business,Austin,Katy,136.0,Customer Visit,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,21-09-2022 01:37,Business,Katy,Houston,30.2,Meeting,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,22-09-2022 01:37,Business,Midtown,Alief,15.5,Meal/Entertain,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,23-09-2022 01:37,Personal,Houston,Houston,4.9,Meeting,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,24-09-2022 01:37,Personal,Houston,Houston,12.6,Temporary Site,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,25-09-2022 01:37,Personal,Sharpstown,Midtown,10.4,Errand/Supplies,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,26-09-2022 01:37,Business,Midtown,Midtown,1.1,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,27-09-2022 01:37,Business,Midtown,Midtown,1.1,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,28-09-2022 01:37,Business,Midtown,Sharpstown,13.2,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,29-09-2022 01:37,Business,Sharpstown,Sharpstown,1.0,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,30-09-2022 01:37,Business,Sharpstown,Midtown,9.2,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,01-10-2022 01:37,Business,Midtown,Sharpstown,9.4,Customer Visit,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,02-10-2022 01:37,Business,Houston,Sugar Land,12.0,Customer Visit,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,03-10-2022 01:37,Business,Sugar Land,Houston,35.1,Customer Visit,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,04-10-2022 01:37,Business,Houston,Galveston,36.5,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,05-10-2022 01:37,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,06-10-2022 01:37,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,2022-01-06,17,Evening,Wed
+2022-01-10 08:05:00,08-10-2022 01:37,Business,Port Bolivar,Galveston,7.5,Meeting,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,09-10-2022 01:37,Business,Galveston,Houston,57.0,Customer Visit,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,10-10-2022 01:37,Business,Midtown,Washington Avenue,5.9,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,11-10-2022 01:37,Business,Washington Avenue,Midtown,6.2,Meeting,2022-01-10,18,Evening,Sun
+2022-01-11 11:56:00,14-10-2022 01:37,Business,Briar Meadow,Midtown,9.6,Customer Visit,2022-01-11,11,Afternoon,Mon
+2022-01-11 14:30:00,16-10-2022 01:37,Business,Downtown,Midtown,0.9,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:53:00,18-10-2022 01:37,Business,Sharpstown,Midtown,25.6,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,19-10-2022 01:37,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,20-10-2022 01:37,Personal,Morrisville,Cary,8.1,Meeting,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,21-10-2022 01:37,Personal,Whitebridge,Whitebridge,1.4,Temporary Site,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,22-10-2022 01:37,Personal,Whitebridge,Preston,1.7,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,23-10-2022 01:37,Personal,Preston,Whitebridge,1.6,Meal/Entertain,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,24-10-2022 01:37,Personal,Whitebridge,Westpark Place,2.0,Meal/Entertain,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,25-10-2022 01:37,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,26-10-2022 01:37,Business,Cary,Latta,144.0,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,27-10-2022 01:37,Business,Latta,Jacksonville,310.3,Errand/Supplies,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,28-10-2022 01:37,Business,Jacksonville,Kissimmee,201.0,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,29-10-2022 01:37,Personal,Couples Glen,Isles of Buena Vista,6.7,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,30-10-2022 01:37,Personal,Kissimmee,Orlando,8.8,Temporary Site,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,31-10-2022 01:37,Personal,Lake Reams,Lake Reams,1.2,Errand/Supplies,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,01-11-2022 01:37,Business,Lake Reams,Lake Reams,2.1,Meal/Entertain,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,02-11-2022 01:37,Business,Orlando,Kissimmee,6.6,Meal/Entertain,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,03-11-2022 01:37,Business,Kissimmee,Orlando,6.1,Meal/Entertain,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,04-11-2022 01:37,Personal,Orlando,Orlando,6.9,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,05-11-2022 01:37,Personal,Orlando,Kissimmee,7.3,Errand/Supplies,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,06-11-2022 01:37,Personal,Kissimmee,Orlando,3.6,Customer Visit,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,07-11-2022 01:37,Personal,Couples Glen,Vista East,27.2,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,08-11-2022 01:37,Personal,Orlando,Kissimmee,25.7,Temporary Site,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,09-11-2022 01:37,Personal,Kissimmee,Orlando,13.6,Errand/Supplies,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,10-11-2022 01:37,Personal,Sand Lake Commons,Sky Lake,6.2,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,11-11-2022 01:37,Personal,Sky Lake,Sand Lake Commons,6.0,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,12-11-2022 01:37,Personal,Orlando,Kissimmee,13.8,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,13-11-2022 01:37,Business,Orlando,Kissimmee,28.8,Meal/Entertain,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,14-11-2022 01:37,Business,Kissimmee,Orlando,16.1,Errand/Supplies,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,15-11-2022 01:37,Business,Orlando,Kissimmee,16.4,Customer Visit,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,16-11-2022 01:37,Business,Kissimmee,Kissimmee,11.0,Meeting,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,17-11-2022 01:37,Business,Kissimmee,Orlando,15.5,Customer Visit,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,18-11-2022 01:37,Business,Orlando,Kissimmee,20.3,Meeting,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,19-11-2022 01:37,Personal,Kissimmee,Kissimmee,0.7,Meeting,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,20-11-2022 01:37,Personal,Kissimmee,Kissimmee,5.5,Temporary Site,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,21-11-2022 01:37,Personal,Kissimmee,Kissimmee,5.1,Errand/Supplies,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,22-11-2022 01:37,Business,Kissimmee,Daytona Beach,77.3,Meal/Entertain,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,23-11-2022 01:37,Business,Daytona Beach,Jacksonville,80.5,Meal/Entertain,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,24-11-2022 01:37,Business,Jacksonville,Ridgeland,174.2,Meal/Entertain,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,25-11-2022 01:37,Business,Ridgeland,Florence,144.0,Meal/Entertain,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,26-11-2022 01:37,Business,Florence,Cary,159.3,Errand/Supplies,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,27-11-2022 01:37,Business,Whitebridge,Wayne Ridge,7.9,Customer Visit,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,28-11-2022 01:37,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,29-11-2022 01:37,Business,Cary,Morrisville,6.1,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,30-11-2022 01:37,Business,Morrisville,Cary,6.1,Errand/Supplies,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,01-12-2022 01:37,Business,Cary,Durham,10.5,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,02-12-2022 01:37,Business,Durham,Cary,8.7,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,03-12-2022 01:37,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,04-12-2022 01:37,Business,Cary,Raleigh,19.1,Meeting,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,05-12-2022 01:37,Business,Raleigh,Cary,18.6,Meeting,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,06-12-2022 01:37,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,07-12-2022 01:37,Business,Cary,Raleigh,8.9,Meeting,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,08-12-2022 01:37,Business,Meredith,Cedar Hill,7.5,Customer Visit,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,09-12-2022 01:37,Business,Raleigh,Morrisville,15.9,Meeting,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,10-12-2022 01:37,Business,Morrisville,Cary,6.5,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,11-12-2022 01:37,Business,Cary,Holly Springs,15.3,Temporary Site,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,12-12-2022 01:37,Business,Holly Springs,Cary,13.7,Temporary Site,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,13-12-2022 01:37,Business,Cary,Raleigh,11.9,Temporary Site,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,14-12-2022 01:37,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,15-12-2022 01:37,Business,Raleigh,Cary,15.2,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,16-12-2022 01:37,Business,Cary,Morrisville,6.0,Errand/Supplies,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,17-12-2022 01:37,Business,Morrisville,Cary,6.1,Meal/Entertain,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,18-12-2022 01:37,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,19-12-2022 01:37,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,20-12-2022 01:37,Business,Cary,Raleigh,13.6,Meeting,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,21-12-2022 01:37,Business,Raleigh,Cary,22.5,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,22-12-2022 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,23-12-2022 01:37,Business,Durham,Cary,10.0,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,24-12-2022 01:37,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,25-12-2022 01:37,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,26-12-2022 01:37,Business,Cary,Morrisville,3.1,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,27-12-2022 01:37,Business,Chessington,Chessington,1.9,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,28-12-2022 01:37,Business,Morrisville,Cary,4.2,Between Offices,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,29-12-2022 01:37,Business,Whitebridge,Burtrose,4.9,Between Offices,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,30-12-2022 01:37,Business,Burtrose,Whitebridge,4.8,Between Offices,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,31-12-2022 01:37,Business,Cary,Raleigh,12.4,Customer Visit,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,01-01-2023 01:37,Business,Raleigh,Cary,32.8,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,02-01-2023 01:37,Business,Morrisville,Cary,5.5,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,03-01-2023 01:37,Business,Cary,Durham,9.9,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,04-01-2023 01:37,Business,Durham,Cary,10.0,Meeting,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,05-01-2023 01:37,Business,Cary,Durham,14.2,Customer Visit,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,06-01-2023 01:37,Business,Durham,Cary,18.2,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,07-01-2023 01:37,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,2022-01-10,18,Evening,Sun
+2022-01-11 08:55:00,09-01-2023 01:37,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 13:32:00,11-01-2023 01:37,Business,Whitebridge,Tanglewood,6.2,Between Offices,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,12-01-2023 01:37,Business,Tanglewood,Parkway,7.5,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,13-01-2023 01:37,Business,Parkway,Whitebridge,3.1,Errand/Supplies,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,14-01-2023 01:37,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,15-01-2023 01:37,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,16-01-2023 01:37,Business,Morrisville,Cary,2.5,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,17-01-2023 01:37,Business,Cary,Morrisville,8.7,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,18-01-2023 01:37,Business,Mcvan,Capitol One,14.5,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,19-01-2023 01:37,Business,Capitol One,University District,4.5,Meal/Entertain,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,20-01-2023 01:37,Business,University District,Capitol One,5.0,Meal/Entertain,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,21-01-2023 01:37,Business,Seattle,Redmond,14.2,Meal/Entertain,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,22-01-2023 01:37,Business,Redmond,Bellevue,2.9,Errand/Supplies,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,23-01-2023 01:37,Business,Bellevue,Seattle,12.9,Meeting,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,24-01-2023 01:37,Business,Capitol One,Mcvan,14.4,Meeting,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,25-01-2023 01:37,Business,Chapel Hill,Morrisville,17.0,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,26-01-2023 01:37,Business,Morrisville,Cary,7.9,Customer Visit,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,27-01-2023 01:37,Business,Cary,Morrisville,8.4,Customer Visit,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,28-01-2023 01:37,Business,San Francisco,Palo Alto,20.5,Between Offices,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,29-01-2023 01:37,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,30-01-2023 01:37,Business,Sunnyvale,Newark,17.6,Customer Visit,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,31-01-2023 01:37,Business,Newark,Menlo Park,9.3,Customer Visit,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,01-02-2023 01:37,Business,Menlo Park,Newark,7.9,Customer Visit,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,02-02-2023 01:37,Business,Newark,San Francisco,25.6,Meeting,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,03-02-2023 01:37,Business,Morrisville,Cary,8.1,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,04-02-2023 01:37,Business,Cary,Morrisville,3.1,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,05-02-2023 01:37,Business,Morrisville,Cary,3.1,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,06-02-2023 01:37,Business,Whitebridge,Preston,2.8,Errand/Supplies,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,07-02-2023 01:37,Business,Preston,Westpark Place,2.7,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,08-02-2023 01:37,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,09-02-2023 01:37,Business,Cary,Morrisville,8.4,Customer Visit,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,10-02-2023 01:37,Business,Morrisville,Raleigh,7.6,Customer Visit,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,11-02-2023 01:37,Business,Old City,Parkway Museums,2.9,Meal/Entertain,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,12-02-2023 01:37,Business,Old City,Hog Island,11.2,Meeting,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,13-02-2023 01:37,Business,Morrisville,Cary,8.2,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,14-02-2023 01:37,Business,Cary,Morrisville,3.0,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,15-02-2023 01:37,Business,Morrisville,Cary,2.5,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,16-02-2023 01:37,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,17-02-2023 01:37,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,18-02-2023 01:37,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,2022-01-10,12,Afternoon,Sun
+2022-01-10 18:18:00,20-02-2023 01:37,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,21-02-2023 01:37,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,22-02-2023 01:37,Business,Cary,Morrisville,6.1,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,23-02-2023 01:37,Business,Morrisville,Cary,11.3,Customer Visit,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,24-02-2023 01:37,Business,Cary,Raleigh,14.9,Meeting,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,25-02-2023 01:37,Business,Raleigh,Cary,14.0,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:53:00,27-02-2023 01:37,Business,Cary,Morrisville,6.7,Customer Visit,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,28-02-2023 01:37,Business,Morrisville,Cary,9.6,Meeting,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,01-03-2023 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,02-03-2023 01:37,Business,Durham,Cary,9.9,Meeting,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,03-03-2023 01:37,Business,Cary,Morrisville,6.0,Meal/Entertain,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,04-03-2023 01:37,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,05-03-2023 01:37,Business,Morrisville,Cary,3.1,Errand/Supplies,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,06-03-2023 01:37,Business,Huntington Woods,Weston,1.7,Errand/Supplies,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,07-03-2023 01:37,Business,Morrisville,Cary,4.0,Between Offices,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,08-03-2023 01:37,Business,Whitebridge,Savon Height,7.8,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,09-03-2023 01:37,Business,Cary,Morrisville,7.8,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,10-03-2023 01:37,Business,Weston,Weston,3.8,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,11-03-2023 01:37,Business,Morrisville,Cary,2.5,Meal/Entertain,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,12-03-2023 01:37,Business,Cary,Durham,9.9,Meeting,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,13-03-2023 01:37,Business,Durham,Cary,9.9,Meeting,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,14-03-2023 01:37,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,15-03-2023 01:37,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,16-03-2023 01:37,Business,Cary,Apex,5.7,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,17-03-2023 01:37,Business,Apex,Cary,7.2,Meal/Entertain,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,18-03-2023 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,19-03-2023 01:37,Business,Durham,Cary,9.9,Meeting,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,20-03-2023 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,21-03-2023 01:37,Business,Durham,Cary,9.9,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,22-03-2023 01:37,Business,Cary,Morrisville,8.7,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,23-03-2023 01:37,Business,Jamaica,New York,22.3,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,24-03-2023 01:37,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,25-03-2023 01:37,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,26-03-2023 01:37,Business,Rose Hill,Soho,2.5,Meal/Entertain,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,27-03-2023 01:37,Business,Soho,Tribeca,0.5,Errand/Supplies,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,28-03-2023 01:37,Business,Tribeca,Financial District,0.9,Errand/Supplies,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,29-03-2023 01:37,Business,Financial District,Kips Bay,4.8,Errand/Supplies,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,30-03-2023 01:37,Business,New York,Jamaica,16.3,Meeting,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,31-03-2023 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,01-04-2023 01:37,Business,Durham,Cary,9.9,Meeting,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,02-04-2023 01:37,Business,Cary,Morrisville,3.7,Errand/Supplies,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,03-04-2023 01:37,Business,Morrisville,Cary,4.6,Meal/Entertain,2022-01-10,12,Afternoon,Sun
+2022-01-10 18:18:00,05-04-2023 01:37,Business,Cary,Durham,10.4,Meeting,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,06-04-2023 01:37,Business,Durham,Cary,9.9,Meeting,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,07-04-2023 01:37,Business,Cary,Morrisville,2.5,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,08-04-2023 01:37,Business,Morrisville,Cary,4.3,Errand/Supplies,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,09-04-2023 01:37,Business,Parkway,Whitebridge,2.8,Errand/Supplies,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,10-04-2023 01:37,Business,Cary,Morrisville,8.4,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,11-04-2023 01:37,Business,Oakland,Emeryville,13.2,Meeting,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,12-04-2023 01:37,Business,Emeryville,Berkeley,3.9,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,13-04-2023 01:37,Business,Berkeley,Oakland,5.1,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,14-04-2023 01:37,Business,Oakland,Unknown Location,5.2,Customer Visit,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,16-04-2023 01:37,Business,San Francisco,Emeryville,11.6,Meeting,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,17-04-2023 01:37,Business,Emeryville,Oakland,5.1,Meeting,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,18-04-2023 01:37,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,19-04-2023 01:37,Business,Kenner,New Orleans,12.4,Between Offices,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,20-04-2023 01:37,Business,CBD,Lower Garden District,1.9,Between Offices,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,21-04-2023 01:37,Business,Lower Garden District,Lakeview,6.4,Customer Visit,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,23-04-2023 01:37,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,24-04-2023 01:37,Business,New Orleans,Metairie,14.5,Meeting,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,25-04-2023 01:37,Business,Metairie,Kenner,2.7,Temporary Site,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,26-04-2023 01:37,Business,Kenner,New Orleans,15.0,Errand/Supplies,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,27-04-2023 01:37,Business,New Orleans,Kenner,12.9,Meal/Entertain,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,28-04-2023 01:37,Business,Kenner,New Orleans,13.6,Meal/Entertain,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,29-04-2023 01:37,Business,New Orleans,Kenner,12.2,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,30-04-2023 01:37,Business,Morrisville,Cary,8.7,Meal/Entertain,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,01-05-2023 01:37,Business,Cary,Raleigh,6.0,Errand/Supplies,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,02-05-2023 01:37,Business,Raleigh,Cary,5.9,Customer Visit,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:53:00,04-05-2023 01:37,Business,Raleigh,Cary,16.6,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,05-05-2023 01:37,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,06-05-2023 01:37,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,07-05-2023 01:37,Business,Cary,Raleigh,8.6,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,08-05-2023 01:37,Business,Raleigh,Morrisville,9.0,Errand/Supplies,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,09-05-2023 01:37,Business,Morrisville,Cary,3.1,Errand/Supplies,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,10-05-2023 01:37,Business,Cary,Morrisville,8.4,Temporary Site,2022-01-02,20,Night,Sat
+2022-01-06 17:15:00,13-05-2023 01:37,Business,New Orleans,Chalmette,11.8,Between Offices,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,14-05-2023 01:37,Business,Chalmette,Arabi,1.1,Errand/Supplies,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,15-05-2023 01:37,Business,Arabi,Metairie,17.0,Meal/Entertain,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,16-05-2023 01:37,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,17-05-2023 01:37,Business,Metairie,New Orleans,15.5,Meeting,2022-01-10,12,Afternoon,Sun
+2022-01-10 19:12:00,20-05-2023 01:37,Business,New Orleans,Kenner,12.6,Meeting,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,21-05-2023 01:37,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,Meeting,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,22-05-2023 01:37,Business,Kenner,Kenner,2.2,Temporary Site,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,23-05-2023 01:37,Business,Kenner,New Orleans,13.0,Errand/Supplies,2022-01-11,13,Afternoon,Mon
+2022-01-11 14:30:00,24-05-2023 01:37,Business,New Orleans,Covington,46.9,Meal/Entertain,2022-01-11,14,Afternoon,Mon
+2022-01-12 12:33:00,25-05-2023 01:37,Business,Covington,Covington,2.5,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 12:53:00,26-05-2023 01:37,Business,Covington,Covington,8.6,Meal/Entertain,2022-01-12,12,Afternoon,Tue
+2022-01-12 14:42:00,27-05-2023 01:37,Business,Covington,Covington,5.2,Meal/Entertain,2022-01-12,14,Afternoon,Tue
+2022-01-12 15:13:00,28-05-2023 01:37,Business,Covington,Covington,7.6,Errand/Supplies,2022-01-12,15,Afternoon,Tue
+2022-01-12 15:42:00,29-05-2023 01:37,Business,Covington,Covington,1.8,Customer Visit,2022-01-12,15,Afternoon,Tue
+2022-01-12 16:02:00,30-05-2023 01:37,Business,Covington,Mandeville,4.7,Meeting,2022-01-12,16,Evening,Tue
+2022-01-02 01:25:00,31-05-2023 01:37,Business,Mandeville,Mandeville,2.8,Temporary Site,2022-01-02,1,Morning,Sat
+2022-01-02 20:25:00,01-06-2023 01:37,Business,Mandeville,Metairie,30.0,Errand/Supplies,2022-01-02,20,Night,Sat
+2022-01-05 17:31:00,02-06-2023 01:37,Business,Metairie,Kenner,4.4,Meal/Entertain,2022-01-05,17,Evening,Tue
+2022-01-06 14:42:00,03-06-2023 01:37,Business,Jamestown Court,Jamestown Court,1.0,Meal/Entertain,2022-01-06,14,Afternoon,Wed
+2022-01-06 17:15:00,04-06-2023 01:37,Business,Morrisville,Cary,8.2,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-06 17:30:00,05-06-2023 01:37,Business,Cary,Durham,10.4,Meal/Entertain,2022-01-06,17,Evening,Wed
+2022-01-07 13:27:00,06-06-2023 01:37,Business,Durham,Cary,9.9,Errand/Supplies,2022-01-07,13,Afternoon,Thr
+2022-01-10 08:05:00,07-06-2023 01:37,Business,Durham,Cary,9.9,Customer Visit,2022-01-10,8,Morning,Sun
+2022-01-10 12:17:00,08-06-2023 01:37,Business,Cary,Morrisville,7.3,Meeting,2022-01-10,12,Afternoon,Sun
+2022-01-10 15:08:00,09-06-2023 01:37,Business,Morrisville,Cary,7.4,Temporary Site,2022-01-10,15,Afternoon,Sun
+2022-01-10 18:18:00,10-06-2023 01:37,Business,Whitebridge,Westpark Place,1.6,Errand/Supplies,2022-01-10,18,Evening,Sun
+2022-01-10 19:12:00,11-06-2023 01:37,Business,Westpark Place,Whitebridge,1.8,Meal/Entertain,2022-01-10,19,Evening,Sun
+2022-01-11 08:55:00,12-06-2023 01:37,Business,Cary,Durham,10.4,Meal/Entertain,2022-01-11,8,Morning,Mon
+2022-01-11 11:56:00,13-06-2023 01:37,Business,Durham,Cary,9.9,Meal/Entertain,2022-01-11,11,Afternoon,Mon
+2022-01-11 13:32:00,14-06-2023 01:37,Business,Cary,Durham,9.9,Meal/Entertain,2022-01-11,13,Afternoon,Mon
